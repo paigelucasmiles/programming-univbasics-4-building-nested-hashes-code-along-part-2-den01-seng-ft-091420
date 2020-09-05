@@ -19,6 +19,7 @@ def update_status
          ]
       }
    }
+end
 
   # Write code that changes the status of both Romeo and Juliet from "alive" to "dead"
   # Code your solution here:
@@ -66,7 +67,6 @@ def fix_roles
       {:name => "Apothecary"}
       ]
   }
-end
    # After your code, the following line will return the altered hash
    epic_tragedy
 end
