@@ -48,9 +48,6 @@ def add_characters
          ]
       }
    }
-end
-
-
    # Write code below that does the following programmatically:
    #
    # - Add an additional :additional_characters key to epic_tragedy and assign it an array as its value
